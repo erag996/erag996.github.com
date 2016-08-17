@@ -1,0 +1,10 @@
+.maincontainer{
+    width: 960px;
+    margin: 0 auto ;
+}
+#home_heading {
+    text-align: center;
+}
+#main_artical{
+    justify-content: space-around;
+}
