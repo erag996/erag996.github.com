@@ -1,4 +1,4 @@
-# erag996.github.com
+# erag996.github.io
 Persanal Site
 
 This website i just for interest first.
